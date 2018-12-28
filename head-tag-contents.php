@@ -6,6 +6,7 @@
 <?php } ?>
 
 <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+<link href="public/css/app.css" rel="stylesheet" />
 <style>
 	#main-content {
 		margin-top:20px;
