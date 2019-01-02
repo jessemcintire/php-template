@@ -6,7 +6,6 @@
 </head>
 <body>
 
-<?php include("design-top.php");?>
 <?php include("navigation.php");?>
 
 <div class="container" id="main-content">
