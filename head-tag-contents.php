@@ -9,7 +9,7 @@
 <link href="public/css/app.css" rel="stylesheet" />
 <style>
 	#main-content {
-		margin-top:20px;
+		margin-top:80px;
 	}
 	.footer {
 		font-size: 14px;

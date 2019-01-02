@@ -1,12 +1,4 @@
-<?php include("a_config.php");?>
-<!DOCTYPE html>
-<html>
-<head>
-	<?php include("head-tag-contents.php");?>
-</head>
-<body>
-
-<?php include("navigation.php");?>
+<?php include("page-template-top.php");?>
 
 <div class="container" id="main-content">
 	<h2>Contact Us</h2>
@@ -20,8 +12,4 @@
 	</p>
 </div>
 
-<?php include("footer.php");?>
-<?php include("end-scripts.php");?>
-
-</body>
-</html>
+<?php include("page-template-bottom.php");?>
