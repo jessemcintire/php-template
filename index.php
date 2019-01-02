@@ -1,4 +1,4 @@
-<?php include("page-template-top.php");?>
+<?php include("shared/page-template-top.php");?>
 
 <div class="container" id="main-content">
 	<h2>Welcome to my website!</h2>
@@ -12,4 +12,4 @@
 	</p>
 </div>
 
-<?php include("page-template-bottom.php");?>
+<?php include("shared/page-template-bottom.php");?>
